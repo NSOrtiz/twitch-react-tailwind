@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Roobert";
+    src: url("https://db.onlinewebfonts.com/t/d6ae884b0a2f1a5346717fc160db2d28.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/d6ae884b0a2f1a5346717fc160db2d28.woff")format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RoobertBold";
+    src: url("https://db.onlinewebfonts.com/t/d6ae884b0a2f1a5346717fc160db2d28.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/d6ae884b0a2f1a5346717fc160db2d28.woff")format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("https://db.onlinewebfonts.com/t/1130e1ae4e4a76c7118c0b35c4b9d019.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1130e1ae4e4a76c7118c0b35c4b9d019.woff")format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "InterBold";
+    src: url("https://db.onlinewebfonts.com/t/1130e1ae4e4a76c7118c0b35c4b9d019.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1130e1ae4e4a76c7118c0b35c4b9d019.woff")format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0ea33830686c6ee0453b626d9aac208e.woff")format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url("https://db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff")format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+

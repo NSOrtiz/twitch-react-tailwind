@@ -1,0 +1,30 @@
+@import './assets/fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.special{
+    background-color: #e6e6ea; 
+    color: black;
+}
+.special:hover{
+    background-color: #d0d0d3 !important;
+}
+
+.imgWB{
+    filter: grayscale(100%);
+}
+
+.underline{
+    border-bottom: 3px solid #4c31c4;
+    color: #4c31c4;
+}
+.underline:hover{
+    border-bottom: 3px solid #7637D3;
+    color: #7637D3;
+}
